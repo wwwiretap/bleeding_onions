@@ -1,2 +1,12 @@
-Tracking the Exit and Guard relays (edges) of the Tor network for CVE-2014-0160.
+Bleeding_Onions
 
+Tracking the Exit and Guard relays (edges) of the Tor network for CVE-2014-0160.
+https://encrypted.redteam.net/bleeding_onions/
+
+Special thanks to:
+Stem, a python controller library for Tor (https://stem.torproject.org/).
+Steffen Ullrich's perl script to check for CVE-2014-0160.
+(https://github.com/wwwiretap/bleeding_onions/blob/master/bin/check-ssl-heartbleed.pl)
+
+# Copyright 2014, SiNA Rabbani and The Tor Project
+# See LICENSE for licensing information
